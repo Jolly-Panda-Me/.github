@@ -1,134 +1,195 @@
-# 🧡 Jolly Panda Me
+<!-- ========================= HEADER ========================= -->
 
 <p align="center">
-  <strong>Your profile. Your identity. Your page.</strong>
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:ff6b35,50:ff914d,100:ff7a3d&text=JOLLY%20PANDA%20ME&fontSize=52&fontColor=ffffff&fontAlignY=42&desc=YOUR%20PROFILE.%20YOUR%20PAGE.&descAlignY=62&descSize=19&animation=fadeIn"
+    width="100%"
+  />
 </p>
 
 <p align="center">
-  A simple and personal way to create your own page on the web.
+  <img
+    src="../assets/jolly-panda-logo.png"
+    alt="Jolly Panda"
+    width="90"
+  />
+</p>
+
+<h1 align="center">Jolly Panda Me</h1>
+
+<p align="center">
+  <b>Profiles · Personal Pages · Digital Identity</b>
 </p>
 
 <p align="center">
-  🌐 <a href="https://me.jollypanda.ir">me.jollypanda.ir</a>
+  A personal profile platform built as part of the Jolly Panda ecosystem.
 </p>
 
 ---
 
-## ✨ About
+## 👤 What We Do
 
-**Jolly Panda Me** is a profile-page platform by **Jolly Panda**.
+**Jolly Panda Me** is a profile platform created by **Jolly Panda**.
 
-Each profile gets its own dedicated repository, allowing personal pages to be developed, maintained, and customized independently while remaining part of the same platform.
+It provides people with a simple personal space on the web where they can introduce themselves, share their work, showcase their projects, and collect their important links in one place.
 
-The goal is simple:
+Our goal is simple:
 
 > **Give everyone a small piece of the web they can call their own.**
 
 ---
 
-## 🧩 How It Works
+## 🚀 The Platform
 
-Every profile is represented as an independent project inside this organization.
+### 👤 Personal Profiles
+
+Each person can have their own dedicated profile page containing their personal information, projects, links, and other content.
+
+**Status:** 🚀 Platform in Development
+
+<p>
+  <a href="https://me.jollypanda.ir">
+    <img src="https://img.shields.io/badge/OPEN%20PLATFORM-ff914d?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
+</p>
+
+### 🧩 Independent Profile Repositories
+
+Each profile is maintained as an independent repository within this organization.
+
+This allows profiles to be developed, customized, versioned, and deployed independently.
 
 ```text
 Jolly-Panda-Me/
 │
-├── user-profile-01
-├── user-profile-02
-├── user-profile-03
+├── profile-01/
+├── profile-02/
+├── profile-03/
 └── ...
 ```
 
-Each repository can contain everything needed for its profile page:
+### 🌐 One Place for Your Identity
 
-* 👤 Personal information
-* 🔗 Social and external links
-* 💼 Projects & work
+A Jolly Panda Me profile can bring together:
+
+* 👤 Personal introduction
+* 💼 Projects & portfolio
+* 🔗 Social links
+* 📝 About & biography
 * 🎨 Personal customization
-* 📝 Biography and introduction
-* 📸 Media and portfolio content
+* 📸 Featured content
 
 ---
 
-## 🎯 Our Vision
-
-The web should not only be made of social-media profiles.
-
-Everyone should be able to have a simple, personal space that represents them.
-
-Jolly Panda Me aims to make that possible without requiring users to build and maintain a website from scratch.
-
-**Simple to create.
-Easy to share.
-Personal by design.**
-
----
-
-## 🛠️ Technology
-
-The platform and individual profiles may use different technologies depending on their requirements.
-
-Typical technologies include:
-
-* HTML
-* CSS
-* JavaScript
-* Node.js
-* Modern Web APIs
-* Git & GitHub
-
-The architecture is designed to keep individual profiles independent while maintaining a consistent platform identity.
-
----
-
-## 📁 Profile Repositories
-
-Each profile is maintained as a separate repository.
-
-This approach allows us to:
-
-* Keep profiles isolated
-* Customize profiles independently
-* Track changes with Git
-* Deploy profiles individually
-* Experiment with different designs and features
-* Scale the platform as more profiles are added
-
----
-
-## 🧡 Built by Jolly Panda
-
-Jolly Panda Me is part of the **Jolly Panda** ecosystem.
-
-**Jolly Panda** is an independent creative studio focused on:
-
-> Games · Interactive Experiences · Digital Products
-
-We build products that combine technology, creativity, and playful experiences.
-
----
-
-## 🤝 Contributing
-
-Jolly Panda Me is primarily maintained as a platform for its users and their individual profiles.
-
-For profile-specific changes, please work within the corresponding profile repository.
-
-For platform-level improvements, documentation, tooling, or infrastructure, contributions and ideas are welcome.
-
----
-
-## 🌐 Links
-
-* **Platform:** https://me.jollypanda.ir
-* **Jolly Panda:** https://jollypanda.ir
-
----
+## 🧰 Technology
 
 <p align="center">
-  <strong>Made with 🧡 by Jolly Panda</strong>
+
+<img src="https://skillicons.dev/icons?i=html,css,js,nodejs,git,github" />
+
+</p>
+
+---
+
+## 🧩 What We Build
+
+```yaml
+profiles:
+  - personal pages
+  - digital portfolios
+  - personal introductions
+  - project showcases
+  - social link pages
+
+platform:
+  - independent profiles
+  - reusable components
+  - responsive UI
+  - data-driven content
+  - scalable architecture
+  - independent deployment
+
+creative:
+  - web experiences
+  - personal branding
+  - interactive profiles
+  - experimental interfaces
+```
+
+---
+
+## 🔭 Currently Exploring
+
+```text
+👤 Better personal profiles
+🎨 Profile customization
+🌐 New web experiences
+🧩 Reusable profile systems
+🚀 Platform scalability
+✨ New ways to represent people online
+```
+
+---
+
+## 🧡 Part of Jolly Panda
+
+**Jolly Panda Me is one of the services created by Jolly Panda.**
+
+It is part of the wider Jolly Panda ecosystem alongside our games, interactive experiences, and digital products.
+
+<p align="center">
+  <a href="https://jollypanda.ir">
+    <img src="https://img.shields.io/badge/Jolly%20Panda%20Studio-ff914d?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+Jolly Panda Studio is the main home for our projects, experiments, and digital products.
+
+---
+
+## 🤝 Collaboration
+
+Jolly Panda Me is continuously evolving.
+
+We are interested in ideas and collaborations involving:
+
+* Web development
+* Personal profile systems
+* UI / UX
+* Interactive experiences
+* Digital identity
+* Creative technology
+* Platform development
+
+For inquiries and collaborations:
+
+<p align="center">
+  <a href="https://jollypanda.ir">
+    <img src="https://img.shields.io/badge/Jolly%20Panda%20Studio-ff914d?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
 </p>
 
 <p align="center">
-  Your profile. Your identity. Your page.
+  <a href="https://me.jollypanda.ir">
+    <img src="https://img.shields.io/badge/Jolly%20Panda%20Me-ff914d?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img
+    src="../assets/jolly-panda-logo.png"
+    alt="Jolly Panda"
+    width="45"
+  />
+  &nbsp;&nbsp;
+  <b>Your profile. Your identity. Your page.</b>
+</p>
+
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:ff7a3d,50:ff914d,100:ff6b35"
+    width="100%"
+  />
 </p>
